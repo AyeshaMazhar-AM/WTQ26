@@ -43,9 +43,3 @@ against the correct JSON given in the participant guide.
    estimate is computed in code. Missing answers are re-asked once; any remaining failure falls
    back to a clear "could not determine" message so no cell is empty.
 3. Rate limits are handled with a pause between bills and retry/back-off on 429/5xx errors.
-4. CSVs are written with Python's `csv` module (correct quoting, UTF-8, original row order).
-
-## AI usage
-- **Models used at runtime:** Gemini 3.5 Flash-Lite (`gemini-3.5-flash-lite`) via Google AI Studio.
-- **Other services/APIs:** none (no separate OCR, no invoice-extraction services)
-- **AI tools to help and debug:** Claude (claude.ai)
