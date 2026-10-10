@@ -1,0 +1,16 @@
+bill_id,question_id,question,answer
+KESC_0008,Q1,How much of my bill is taxes?,"Your total taxes come to Rs. 569.62, which includes Electricity Duty of Rs. 29.41, Sales Tax of Rs. 520.21, and MUCT (KMC) of Rs. 20.00."
+KESC_0008,Q2,How many months in my usage history went above 200 units?,"Looking at the 13 Month Usage History, there is 1 month (July) that went above 200 units with 239 units consumed."
+KESC_0008,Q3,How much extra do I pay if I pay after the due date?,"If you pay after the due date by 24-Apr-2026, you will pay a total of Rs. 3,716, which is an extra Rs. 286 compared to the due date amount of Rs. 3,430."
+KESC_0004,Q1,How much of my bill is taxes?,"The total taxes on your bill amount to PKR 7,472.24, which includes an electricity duty of PKR 520.85 and sales tax of PKR 6,951.39."
+KESC_0004,Q2,How many months in my usage history went above 200 units?,"Based on the 13-month usage history chart shown on the bill, there are 7 months where the usage went above 200 units (943, 637, 665, 555, 522, 599, and 901 units)."
+KESC_0004,Q3,How much extra do I pay if I pay after the due date?,"You pay PKR 0.00 extra if you pay after the due date, as your Amount Payable after Due Date is also PKR 0.0 due to your credit balance and net metering benefit."
+LESCO_0005,Q1,How much of my bill is taxes?,"Your total taxes amount to PKR 3,358.23, as listed under the Taxes section of the bill charges breakdown."
+LESCO_0005,Q2,How many months in my usage history went above 200 units?,"Based on the Bill History section showing units for 12 months, 7 months had absolute consumption above 200 units (JUL 25 with 781, AUG 25 with 225, JAN 26 with 359, FEB 26 with 809, MAR 26 with 818, APR 26 with 402, and MAY 26 with 1955)."
+LESCO_0005,Q3,How much extra do I pay if I pay after the due date?,"The bill states that the amount payable after the due date (03/08/26) is ""NOT TO BE PAID"" and shows 0 for L.P. Surcharge, meaning there is no extra surcharge listed for late payment."
+LESCO_0006,Q1,How much of my bill is taxes?,"Your total taxes are PKR 1,723.51, as shown under the Taxes section in the bill charges breakdown."
+LESCO_0006,Q2,How many months in my usage history went above 200 units?,"Looking at your Bill History table, there are 9 months (AUG 25, SEP 25, OCT 25, DEC 25, MAR 26, APR 26, MAY 26, JUN 26, and JUL 26) where your electricity consumption went above 200 units."
+LESCO_0006,Q3,How much extra do I pay if I pay after the due date?,"If you pay after the due date, you will pay PKR 45,263 instead of PKR 44,912, which is an extra amount of PKR 351."
+IESCO_0004,Q1,How much of my bill is taxes?,The taxes listed on the bill total 498 PKR (labeled as Taxes 15.24%).
+IESCO_0004,Q2,How many months in my usage history went above 200 units?,Zero months in the displayed bill history went above 200 units; the highest listed is 197 units in Jul26.
+IESCO_0004,Q3,How much extra do I pay if I pay after the due date?,"If you pay after the due date of 08 OCT 26, the payable amount increases from 3,535 PKR to 3,812 PKR, which is an extra 277 PKR."
